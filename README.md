@@ -13,7 +13,7 @@ C#
 
 #### Group
 [Flavien MERITTO](https://github.com/Ny0n)  
-[Lionel JANIN](https://github.com/JLionel) (me)  
+[Lionel JANIN](https://github.com/JLionel)  
 [Killian PEREZ](https://github.com/Meshanda)  
 
 #### Time to realize it
